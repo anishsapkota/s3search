@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"name": "message", "type": "text", "store": true},
+    {"name": "level",   "type": "keyword", "store": true},
+    {"name": "service", "type": "keyword", "store": true},
+    {"name": "ts",      "type": "i64", "store": true}
+  ],
+  "id_field": ""
+}
