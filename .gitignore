@@ -1,5 +1,5 @@
-/.claude/
-/.idea/
-s3search
-generate
+/.*/
+/docs
+/s3search
+/generate
 *.ndjson
